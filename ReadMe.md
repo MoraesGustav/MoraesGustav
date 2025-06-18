@@ -1,5 +1,5 @@
 # 💫 About Me:
-Formado em Analise e Desenvolvimento de Sistemas  <br>Programador Junior Backend - Java<br>- Conhecimento em tecnologias como C#, C, Python
+Formado em Analise e Desenvolvimento de Sistemas  <br>Programador Junior Backend <br>- Conhecimento em tecnologias como Python, Java, C e C#
 
 
 ## 🌐 Socials:
