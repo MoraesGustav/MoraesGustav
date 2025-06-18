@@ -1,5 +1,5 @@
 # 💫 About Me:
-Cursando Analise e Desenvolvimento de Sistemas 4º Semestre <br>Programador Junior Backend - Java<br>- Conhecimento em tecnologias como HTML, CSS, C#, C, Python e Git 
+Formado em Analise e Desenvolvimento de Sistemas  <br>Programador Junior Backend - Java<br>- Conhecimento em tecnologias como C#, C, Python
 
 
 ## 🌐 Socials:
